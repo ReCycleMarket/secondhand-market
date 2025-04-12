@@ -31,7 +31,8 @@
 - ساخت تجربه‌ای روان و حرفه‌ای برای کاربران ایرانی
 
 🗂 لینک‌های مرتبط
-🔗 برد مدیریت پروژه (Project Board): 
+🔗 برد مدیریت پروژه (Project Board):
+
 [GitHub Projects - مدیریت وظایف](https://github.com/users/alireza-zare2553/projects/3)
 
 وضعیت فعلی توسعه
